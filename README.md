@@ -1,2 +1,2 @@
 # Hello-World
-just cruising and lookiing around to learn and educate myself
+just cruising and looking around to learn and educate myself
